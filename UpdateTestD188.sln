@@ -1,0 +1,17 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C++ Express 2010
+Project("{b8e44f33-e3be-4d32-8775-eed72d65b167}") = "UpdateTestD188", "UpdateTestD188.vcxproj", "{01F4DC69-4E7A-4184-B7DB-C2D38809FDC8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{01F4DC69-4E7A-4184-B7DB-C2D38809FDC8}.Debug|Win32.ActiveCfg = Debug|Win32
+		{01F4DC69-4E7A-4184-B7DB-C2D38809FDC8}.Debug|Win32.Build.0 = Debug|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

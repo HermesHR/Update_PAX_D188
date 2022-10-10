@@ -1,0 +1,1480 @@
+Archive member included because of file (symbol)
+
+C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+                              C:\PAXPAY~1\myapp\UPDATE~1\main.o (SystemInit)
+C:\PAXPAY~1\build\gcc-arm-none-eabi\lib\libc.a(lib_a-memcpy.o)
+                              C:\PAXPAY~1\postype\D188\libD188api.a(dll.o) (memcpy)
+C:\PAXPAY~1\build\gcc-arm-none-eabi\lib\libc.a(lib_a-memset.o)
+                              C:\PAXPAY~1\myapp\UPDATE~1\main.o (memset)
+C:\PAXPAY~1\build\gcc-arm-none-eabi\lib\libc.a(lib_a-strlen.o)
+                              C:\PAXPAY~1\postype\D188\libD188api.a(dll.o) (strlen)
+C:\PAXPAY~1\build\gcc-arm-none-eabi\lib\libc.a(lib_a-vsnprintf.o)
+                              C:\PAXPAY~1\postype\D188\libD188api.a(dll.o) (vsnprintf)
+C:\PAXPAY~1\build\gcc-arm-none-eabi\lib\libc.a(lib_a-impure.o)
+                              C:\PAXPAY~1\build\gcc-arm-none-eabi\lib\libc.a(lib_a-vsnprintf.o) (_impure_ptr)
+C:\PAXPAY~1\build\gcc-arm-none-eabi\lib\libc.a(lib_a-svfprintf.o)
+                              C:\PAXPAY~1\build\gcc-arm-none-eabi\lib\libc.a(lib_a-vsnprintf.o) (_svfprintf_r)
+C:\PAXPAY~1\build\gcc-arm-none-eabi\lib\libc.a(lib_a-dtoa.o)
+                              C:\PAXPAY~1\build\gcc-arm-none-eabi\lib\libc.a(lib_a-svfprintf.o) (_dtoa_r)
+C:\PAXPAY~1\build\gcc-arm-none-eabi\lib\libc.a(lib_a-locale.o)
+                              C:\PAXPAY~1\build\gcc-arm-none-eabi\lib\libc.a(lib_a-svfprintf.o) (_localeconv_r)
+C:\PAXPAY~1\build\gcc-arm-none-eabi\lib\libc.a(lib_a-mallocr.o)
+                              C:\PAXPAY~1\build\gcc-arm-none-eabi\lib\libc.a(lib_a-svfprintf.o) (_malloc_r)
+C:\PAXPAY~1\build\gcc-arm-none-eabi\lib\libc.a(lib_a-memchr.o)
+                              C:\PAXPAY~1\build\gcc-arm-none-eabi\lib\libc.a(lib_a-svfprintf.o) (memchr)
+C:\PAXPAY~1\build\gcc-arm-none-eabi\lib\libc.a(lib_a-mlock.o)
+                              C:\PAXPAY~1\build\gcc-arm-none-eabi\lib\libc.a(lib_a-mallocr.o) (__malloc_lock)
+C:\PAXPAY~1\build\gcc-arm-none-eabi\lib\libc.a(lib_a-mprec.o)
+                              C:\PAXPAY~1\build\gcc-arm-none-eabi\lib\libc.a(lib_a-dtoa.o) (_Balloc)
+C:\PAXPAY~1\build\gcc-arm-none-eabi\lib\libc.a(lib_a-s_fpclassify.o)
+                              C:\PAXPAY~1\build\gcc-arm-none-eabi\lib\libc.a(lib_a-svfprintf.o) (__fpclassifyd)
+C:\PAXPAY~1\build\gcc-arm-none-eabi\lib\libc.a(lib_a-sbrkr.o)
+                              C:\PAXPAY~1\build\gcc-arm-none-eabi\lib\libc.a(lib_a-mallocr.o) (_sbrk_r)
+C:\PAXPAY~1\build\gcc-arm-none-eabi\lib\libc.a(lib_a-strcmp.o)
+                              C:\PAXPAY~1\build\gcc-arm-none-eabi\lib\libc.a(lib_a-locale.o) (strcmp)
+C:\PAXPAY~1\build\gcc-arm-none-eabi\lib\libc.a(lib_a-svfiprintf.o)
+                              C:\PAXPAY~1\build\gcc-arm-none-eabi\lib\libc.a(lib_a-svfprintf.o) (__ssprint_r)
+C:\PAXPAY~1\build\gcc-arm-none-eabi\lib\libc.a(lib_a-callocr.o)
+                              C:\PAXPAY~1\build\gcc-arm-none-eabi\lib\libc.a(lib_a-mprec.o) (_calloc_r)
+C:\PAXPAY~1\build\gcc-arm-none-eabi\lib\libc.a(lib_a-freer.o)
+                              C:\PAXPAY~1\build\gcc-arm-none-eabi\lib\libc.a(lib_a-mallocr.o) (_free_r)
+C:\PAXPAY~1\build\gcc-arm-none-eabi\lib\libc.a(lib_a-memmove.o)
+                              C:\PAXPAY~1\build\gcc-arm-none-eabi\lib\libc.a(lib_a-svfiprintf.o) (memmove)
+C:\PAXPAY~1\build\gcc-arm-none-eabi\lib\libc.a(lib_a-reallocr.o)
+                              C:\PAXPAY~1\build\gcc-arm-none-eabi\lib\libc.a(lib_a-svfiprintf.o) (_realloc_r)
+C:\PAXPAY~1\build\gcc-arm-none-eabi\lib\libc.a(lib_a-reent.o)
+                              C:\PAXPAY~1\build\gcc-arm-none-eabi\lib\libc.a(lib_a-sbrkr.o) (errno)
+C:\PAXPAY~1\build\gcc-arm-none-eabi\lib\libgcc.a(_arm_addsubdf3.o)
+                              C:\PAXPAY~1\build\gcc-arm-none-eabi\lib\libc.a(lib_a-dtoa.o) (__aeabi_dsub)
+C:\PAXPAY~1\build\gcc-arm-none-eabi\lib\libgcc.a(_arm_muldivdf3.o)
+                              C:\PAXPAY~1\build\gcc-arm-none-eabi\lib\libc.a(lib_a-dtoa.o) (__aeabi_dmul)
+C:\PAXPAY~1\build\gcc-arm-none-eabi\lib\libgcc.a(_arm_cmpdf2.o)
+                              C:\PAXPAY~1\build\gcc-arm-none-eabi\lib\libc.a(lib_a-svfprintf.o) (__aeabi_dcmpeq)
+C:\PAXPAY~1\build\gcc-arm-none-eabi\lib\libgcc.a(_arm_fixdfsi.o)
+                              C:\PAXPAY~1\build\gcc-arm-none-eabi\lib\libc.a(lib_a-dtoa.o) (__aeabi_d2iz)
+C:\PAXPAY~1\build\gcc-arm-none-eabi\lib\libgcc.a(_aeabi_uldivmod.o)
+                              C:\PAXPAY~1\build\gcc-arm-none-eabi\lib\libc.a(lib_a-svfprintf.o) (__aeabi_uldivmod)
+C:\PAXPAY~1\build\gcc-arm-none-eabi\lib\libgcc.a(bpabi.o)
+                              C:\PAXPAY~1\build\gcc-arm-none-eabi\lib\libgcc.a(_aeabi_uldivmod.o) (__gnu_uldivmod_helper)
+C:\PAXPAY~1\build\gcc-arm-none-eabi\lib\libgcc.a(_dvmd_tls.o)
+                              C:\PAXPAY~1\build\gcc-arm-none-eabi\lib\libgcc.a(_aeabi_uldivmod.o) (__aeabi_ldiv0)
+C:\PAXPAY~1\build\gcc-arm-none-eabi\lib\libgcc.a(_divdi3.o)
+                              C:\PAXPAY~1\build\gcc-arm-none-eabi\lib\libgcc.a(bpabi.o) (__divdi3)
+C:\PAXPAY~1\build\gcc-arm-none-eabi\lib\libgcc.a(_udivdi3.o)
+                              C:\PAXPAY~1\build\gcc-arm-none-eabi\lib\libgcc.a(bpabi.o) (__udivdi3)
+C:\PAXPAY~1\build\gcc-arm-none-eabi\lib\libnosys.a(sbrk.o)
+                              C:\PAXPAY~1\build\gcc-arm-none-eabi\lib\libc.a(lib_a-sbrkr.o) (_sbrk)
+
+Allocating common symbols
+Common symbol       size              file
+
+CallEvent           0x4               C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+errno               0x4               C:\PAXPAY~1\build\gcc-arm-none-eabi\lib\libc.a(lib_a-reent.o)
+CallApp             0x4               C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+glParam             0x4               C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+
+Discarded input sections
+
+ .text          0x00000000        0x0 C:\PAXPAY~1\myapp\UPDATE~1\main.o
+ .data          0x00000000        0x0 C:\PAXPAY~1\myapp\UPDATE~1\main.o
+ .bss           0x00000000        0x0 C:\PAXPAY~1\myapp\UPDATE~1\main.o
+ .text          0x00000000        0x0 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .data          0x00000000        0x0 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .bss           0x00000000        0x0 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.ReadDllVer
+                0x00000000        0x4 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.Beep     0x00000000       0x14 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.Beef     0x00000000       0x1c C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.SetTime  0x00000000       0x1c C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.GetTime  0x00000000       0x18 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.DelayMs_P80
+                0x00000000        0x2 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.OnBase   0x00000000       0x18 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.TimerSet
+                0x00000000       0x1c C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.TimerCheck
+                0x00000000       0x1c C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.EnumFont
+                0x00000000       0x1c C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.ScrSelectFont
+                0x00000000       0x1c C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.GetCurScrFont
+                0x00000000       0x18 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.PrnSelectFont
+                0x00000000       0x1c C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.Reboot   0x00000000       0x14 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.ReadSN   0x00000000       0x1c C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.EXReadSN
+                0x00000000       0x18 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.ReadCSN  0x00000000       0x1c C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.ReadTUSN
+                0x00000000       0x20 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.ReadVerInfo
+                0x00000000       0x1c C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.GetLastError
+                0x00000000       0x18 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.PowerSave
+                0x00000000       0x1c C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.AutoPowerSave
+                0x00000000       0x18 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.SetBatteryManageMode
+                0x00000000       0x1c C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.BatteryStatusInfo
+                0x00000000       0x18 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.BatterySetFullMV
+                0x00000000       0x18 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.GetChargerInfoData
+                0x00000000       0x18 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.SetChargerInfoData
+                0x00000000       0x18 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.GetTTSStateInfo
+                0x00000000       0x18 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.BatteryCheck
+                0x00000000       0x18 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.PowerOff
+                0x00000000       0x14 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.GetTermInfo
+                0x00000000       0x18 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.ReadFontLib
+                0x00000000       0x20 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.SetTimerEvent
+                0x00000000        0x4 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.KillTimerEvent
+                0x00000000        0x2 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.GetTimerCount
+                0x00000000       0x28 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.GetVolt  0x00000000       0x18 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.kbhit    0x00000000       0x18 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.kbflush  0x00000000       0x14 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text._getkey  0x00000000       0x18 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.getkey   0x00000000       0x18 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.kbmute   0x00000000       0x18 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.KbLock   0x00000000       0x18 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.KbCheck  0x00000000       0x18 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.kbsound  0x00000000        0x2 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.GetString
+                0x00000000       0x28 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.KbReleased
+                0x00000000       0x18 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.kblight  0x00000000       0x18 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.SetSlipFW
+                0x00000000       0x18 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.kbbeef   0x00000000        0x2 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.GetStringFormat
+                0x00000000       0x28 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.GetStringResult
+                0x00000000       0x1c C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.ScrCls   0x00000000       0x14 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.ScrClrLine
+                0x00000000       0x1c C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.ScrGray  0x00000000       0x18 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.ScrBackLight
+                0x00000000       0x18 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.ScrGotoxy
+                0x00000000       0x1c C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.ScrFontSet
+                0x00000000       0x28 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.ScrAttrSet
+                0x00000000       0x28 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.Lcdprintf
+                0x00000000       0x58 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.ScrPlot  0x00000000       0x24 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.ScrDrLogo
+                0x00000000       0x18 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.ScrDrLogoxy
+                0x00000000       0x1c C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.ScrRestore
+                0x00000000       0x1c C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.ScrSetIcon
+                0x00000000       0x1c C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.ScrDrawBox
+                0x00000000       0x28 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.SetLightTime
+                0x00000000       0x18 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.ScrGotoxyEx
+                0x00000000       0x18 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.ScrGetxyEx
+                0x00000000       0x18 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.ScrDrawRect
+                0x00000000       0x24 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.ScrClrRect
+                0x00000000       0x24 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.ScrSpaceSet
+                0x00000000       0x18 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.ScrGetLcdSize
+                0x00000000       0x18 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.ScrTextOut
+                0x00000000       0x1c C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.ScrSetOutput
+                0x00000000       0x18 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.ScrSetEcho
+                0x00000000       0x18 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.CLcdSetFgColor
+                0x00000000       0x18 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.CLcdSetBgColor
+                0x00000000       0x18 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.CLcdDrawPixel
+                0x00000000       0x20 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.CLcdGetPixel
+                0x00000000       0x20 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.CLcdClrLine
+                0x00000000       0x1c C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.CLcdTextOut
+                0x00000000       0x60 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.CLcdPrint
+                0x00000000       0x68 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.CLcdDrawRect
+                0x00000000       0x24 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.CLcdClrRect
+                0x00000000       0x24 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.CLcdGetInfo
+                0x00000000       0x18 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.CLcdBgDrawBox
+                0x00000000       0x24 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.CLcdWriteBitmap
+                0x00000000       0x30 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.CLcdBgDrawGif
+                0x00000000       0x1c C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.CLcdBgClrGif
+                0x00000000       0x18 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.MagOpen  0x00000000       0x14 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.MagClose
+                0x00000000       0x14 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.MagReset
+                0x00000000       0x14 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.MagSwiped
+                0x00000000       0x18 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.MagRead  0x00000000       0x20 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.IccInit  0x00000000       0x20 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.IccClose
+                0x00000000       0x18 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.IccAutoResp
+                0x00000000       0x1c C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.IccIsoCommand
+                0x00000000       0x24 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.IccDetect
+                0x00000000       0x1c C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.Mc_Clk_Enable
+                0x00000000       0x1c C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.Mc_Io_Dir
+                0x00000000       0x1c C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.Mc_Io_Read
+                0x00000000       0x1c C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.Mc_Io_Write
+                0x00000000       0x1c C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.Mc_Vcc   0x00000000       0x1c C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.Mc_Reset
+                0x00000000       0x1c C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.Mc_Clk   0x00000000       0x1c C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.Mc_C4_Write
+                0x00000000       0x1c C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.Mc_C8_Write
+                0x00000000       0x1c C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.Mc_C4_Read
+                0x00000000       0x1c C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.Mc_C8_Read
+                0x00000000       0x1c C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.Read_CardSlotInfo
+                0x00000000       0x1c C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.Write_CardSlotInfo
+                0x00000000       0x1c C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.PortOpen
+                0x00000000       0x20 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.PortClose
+                0x00000000       0x1c C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.PortSend
+                0x00000000       0x20 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.PortRecv
+                0x00000000       0x24 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.PortRecvs
+                0x00000000       0x24 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.SetHeartBeat
+                0x00000000       0x28 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.PortReset
+                0x00000000       0x1c C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.PortSends
+                0x00000000       0x24 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.PortPeep
+                0x00000000       0x20 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.PortTxPoolCheck
+                0x00000000       0x1c C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.RS485AttrSet
+                0x00000000       0x1c C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.s_PortOpen
+                0x00000000        0x2 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.s_PortSend
+                0x00000000        0x2 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.s_PortRecv
+                0x00000000        0x2 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.s_PortClose
+                0x00000000        0x2 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.EnableSwitch
+                0x00000000        0x2 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.SetOffBaseProc
+                0x00000000        0x2 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.PrnInit  0x00000000       0x20 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.PrnFontSet
+                0x00000000       0x1c C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.PrnSpaceSet
+                0x00000000       0x1c C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.PrnStep  0x00000000       0x18 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.PrnStr   0x00000000       0x6c C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.PrnLogo  0x00000000       0x30 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.PrnStart
+                0x00000000       0x24 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.PrnStatus
+                0x00000000       0x24 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.PrnLeftIndent
+                0x00000000       0x18 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.PrnGetDotLine
+                0x00000000       0x18 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.PrnSetGray
+                0x00000000       0x18 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.PrnGetFontDot
+                0x00000000       0x20 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.PrnTemperature
+                0x00000000       0x18 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.PrnDoubleWidth
+                0x00000000       0x18 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.PrnDoubleHeight
+                0x00000000       0x18 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.PrnAttrSet
+                0x00000000       0x18 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.PrnPreFeedSet
+                0x00000000       0x20 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.PrnImage
+                0x00000000       0x24 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.WlInit   0x00000000       0x18 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.WlInitEx
+                0x00000000       0x1c C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.WlGetSignal
+                0x00000000       0x18 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.WlPppLogin
+                0x00000000       0x28 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.WlPppLogout
+                0x00000000       0x14 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.WlPppLoginEx
+                0x00000000       0x2c C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.WlPppCheck
+                0x00000000       0x18 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.WlOpenPort
+                0x00000000       0x18 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.WlClosePort
+                0x00000000       0x18 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.WlSendCmd
+                0x00000000       0x28 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.WlSwitchPower
+                0x00000000       0x18 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.WlSelSim
+                0x00000000       0x1c C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.WlTcpRetryNum
+                0x00000000       0x18 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.WlSetTcpDetect
+                0x00000000       0x18 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.WlSetDns
+                0x00000000       0x18 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.WlFwUpdate
+                0x00000000       0x1c C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.open     0x00000000       0x1c C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.ex_open  0x00000000       0x20 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.read     0x00000000       0x20 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.write    0x00000000       0x20 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.close    0x00000000       0x18 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.seek     0x00000000       0x20 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.tell     0x00000000       0x18 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.remove   0x00000000       0x18 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.filesize
+                0x00000000       0x18 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.freesize
+                0x00000000       0x14 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.truncate
+                0x00000000       0x1c C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.fexist   0x00000000       0x18 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.GetFileInfo
+                0x00000000       0x18 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.SoundPlay
+                0x00000000       0x1c C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.SoundVolumeSet
+                0x00000000       0x24 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.SoundVolumeGet
+                0x00000000       0x24 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.ReadAppInfo
+                0x00000000       0x1c C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.ReadAppState
+                0x00000000       0x1c C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.SetAppActive
+                0x00000000       0x20 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.RunApp   0x00000000       0x40 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.DoEvent  0x00000000       0x48 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.DoEventFast
+                0x00000000       0x34 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.s_SramTest
+                0x00000000        0x4 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.EraseSN  0x00000000        0x4 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.s_GetMatrixDot
+                0x00000000       0x20 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.des      0x00000000       0x20 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.GetEnv   0x00000000       0x1c C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.PutEnv   0x00000000       0x1c C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.ModemReset
+                0x00000000       0x18 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.ModemDial
+                0x00000000       0x24 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.ModemCheck
+                0x00000000       0x18 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.ModemTxd
+                0x00000000       0x1c C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.ModemRxd
+                0x00000000       0x20 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.OnHook   0x00000000       0x18 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.ModemAsyncGet
+                0x00000000       0x18 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.s_ModemInfo
+                0x00000000       0x20 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.ModemExCommand
+                0x00000000       0x28 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.TelDial  0x00000000       0x18 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.TelCheck
+                0x00000000       0x18 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.TelOffHook
+                0x00000000       0x14 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.TelSetPara
+                0x00000000       0x18 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.RemoteLoadApp
+                0x00000000       0x18 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.ProTimsEntry
+                0x00000000       0x18 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.FirmwareEntry
+                0x00000000       0x14 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.PiccOpen
+                0x00000000       0x18 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.PiccSetup
+                0x00000000       0x20 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.PiccInitFelica
+                0x00000000       0x20 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.PiccManageReg
+                0x00000000       0x24 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.PiccDetect
+                0x00000000       0x28 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.PiccIsoCommand
+                0x00000000       0x24 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.PiccRemove
+                0x00000000       0x20 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.PiccClose
+                0x00000000       0x14 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.PiccLight
+                0x00000000       0x1c C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.PiccCmdExchange
+                0x00000000       0x24 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.M1Authority
+                0x00000000       0x28 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.M1ReadBlock
+                0x00000000       0x20 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.M1WriteBlock
+                0x00000000       0x20 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.M1Operate
+                0x00000000       0x28 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.__gccmain
+                0x00000000        0x2 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.NetSocket
+                0x00000000       0x20 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.NetConnect
+                0x00000000       0x20 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.NetBind  0x00000000       0x20 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.NetListen
+                0x00000000       0x1c C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.NetAccept
+                0x00000000       0x20 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.NetSend  0x00000000       0x20 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.NetSendto
+                0x00000000       0x28 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.NetRecv  0x00000000       0x20 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.NetRecvfrom
+                0x00000000       0x28 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.NetCloseSocket
+                0x00000000       0x18 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.Netioctl
+                0x00000000       0x20 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.SockAddrSet
+                0x00000000       0x20 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.SockAddrGet
+                0x00000000       0x20 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.DhcpStart
+                0x00000000       0x18 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.DhcpStop
+                0x00000000       0x14 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.DhcpCheck
+                0x00000000       0x18 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.PPPLogin
+                0x00000000       0x20 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.PPPLogout
+                0x00000000       0x14 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.PPPCheck
+                0x00000000       0x14 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.EthMacGet
+                0x00000000       0x18 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.EthSet   0x00000000       0x20 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.EthGet   0x00000000       0x24 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.DnsResolve
+                0x00000000       0x20 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.DnsResolveExt
+                0x00000000       0x20 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.DhcpSetDns
+                0x00000000       0x20 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.NetPing  0x00000000       0x20 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.RouteSetDefault
+                0x00000000       0x18 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.RouteGetDefault
+                0x00000000       0x18 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.NetSetIcmp
+                0x00000000       0x18 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.NetAddStaticArp
+                0x00000000       0x1c C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.PppoeLogin
+                0x00000000       0x20 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.PppoeLogout
+                0x00000000       0x14 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.PppoeCheck
+                0x00000000       0x18 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.EthSetRateDuplexMode
+                0x00000000       0x18 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.EthGetFirstRouteMac
+                0x00000000       0x20 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.WifiOpen
+                0x00000000       0x18 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.WifiClose
+                0x00000000       0x18 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.WifiScan
+                0x00000000       0x1c C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.WifiConnect
+                0x00000000       0x1c C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.WifiDisconnect
+                0x00000000       0x18 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.WifiCheck
+                0x00000000       0x18 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.WifiCtrl
+                0x00000000       0x24 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.WifiScanEx
+                0x00000000       0x1c C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.BtOpen   0x00000000       0x18 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.BtClose  0x00000000       0x18 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.BtGetConfig
+                0x00000000       0x18 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.BtSetConfig
+                0x00000000       0x18 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.BtScan   0x00000000       0x20 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.BtConnect
+                0x00000000       0x18 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.BtDisconnect
+                0x00000000       0x18 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.BtGetStatus
+                0x00000000       0x18 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.BtCtrl   0x00000000       0x24 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.GnssOpen
+                0x00000000       0x18 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.GnssRead
+                0x00000000       0x18 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.GnssClose
+                0x00000000       0x14 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.GnssGetList
+                0x00000000       0x1c C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.FsOpen   0x00000000       0x1c C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.FsClose  0x00000000       0x18 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.FsDelete
+                0x00000000       0x18 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.FsGetInfo
+                0x00000000       0x1c C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.FsRename
+                0x00000000       0x1c C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.FsDirSeek
+                0x00000000       0x20 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.FsDirRead
+                0x00000000       0x20 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.FsFileRead
+                0x00000000       0x20 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.FsFileWrite
+                0x00000000       0x20 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.FsFileSeek
+                0x00000000       0x20 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.FsFileTell
+                0x00000000       0x18 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.FsFileTruncate
+                0x00000000       0x20 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.FsSetWorkDir
+                0x00000000       0x18 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.FsGetWorkDir
+                0x00000000       0x18 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.FsUdiskIn
+                0x00000000       0x18 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.FsGetDiskInfo
+                0x00000000       0x1c C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.FileToParam
+                0x00000000       0x20 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.FileToFont
+                0x00000000       0x18 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.FileToMonitor
+                0x00000000       0x18 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.FileToDriver
+                0x00000000       0x1c C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.DelAppFile
+                0x00000000       0x18 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.DelFontFile
+                0x00000000       0x14 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.SslSaveCerPrivkey
+                0x00000000       0x40 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.SslDelCerPrivkey
+                0x00000000       0x1c C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.GenRSAKey
+                0x00000000       0x20 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.RSARecover
+                0x00000000       0x28 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.PciGetRandom
+                0x00000000       0x18 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.PedWriteKey
+                0x00000000       0x1c C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.PedWriteTIK
+                0x00000000       0x30 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.PedGetPinBlock
+                0x00000000       0x30 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.PedGetMac
+                0x00000000       0x2c C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.PedCalcDES
+                0x00000000       0x2c C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.PedGetPinDukpt
+                0x00000000       0x34 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.PedGetMacDukpt
+                0x00000000       0x30 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.PedGetMacAes
+                0x00000000       0x2c C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.PedReGenPinBlock
+                0x00000000       0x30 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.PedVerifyPlainPin
+                0x00000000       0x28 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.PedVerifyCipherPin
+                0x00000000       0x30 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.PedGetKcv
+                0x00000000       0x24 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.PedWriteKeyVar
+                0x00000000       0x2c C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.PedGetVer
+                0x00000000       0x18 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.PedErase
+                0x00000000       0x14 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.PedSetIntervaltime
+                0x00000000       0x1c C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.PedSetKeyTag
+                0x00000000       0x18 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.PedDukptDes
+                0x00000000       0x38 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.PedGetDukptKSN
+                0x00000000       0x1c C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.PedDukptIncreaseKsn
+                0x00000000       0x1c C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.PedWriteRsaKey
+                0x00000000       0x1c C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.PedRsaRecover
+                0x00000000       0x24 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.PedInjectKeyBlock
+                0x00000000       0x1c C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.PedCmd   0x00000000       0x1c C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.PedRkiReadPuk
+                0x00000000       0x20 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.PedRkiWritePuk
+                0x00000000       0x28 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.PedRkiWriteDevAuthKey
+                0x00000000       0x28 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.PedRkiGenDevAuthData
+                0x00000000       0x20 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.PedRkiGetDevAuthData
+                0x00000000       0x28 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.PedRkiVerifyDevAuthToken
+                0x00000000       0x1c C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.PedRkiInjectKey
+                0x00000000       0x20 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.PedRkiGenHostAuthData
+                0x00000000       0x20 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.PedGetTransCnt
+                0x00000000       0x18 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.PedIncTransCnt
+                0x00000000       0x18 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.PedDeriveMsgKey
+                0x00000000       0x3c C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.PedRkiReadInfo
+                0x00000000       0x1c C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.PedRkiWriteInfo
+                0x00000000       0x20 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.PedRkiGenTekAuk
+                0x00000000       0x30 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.PedRkiGenDevKey
+                0x00000000       0x18 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.PedRkiVerifyPuk
+                0x00000000       0x20 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.PedRkiGetDevId
+                0x00000000       0x1c C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.PedRkiUnBind
+                0x00000000       0x1c C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.PedLkiGetDevAuthData
+                0x00000000       0x28 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.PedGenSM2KeyPair
+                0x00000000       0x20 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.PedWriteSM2Key
+                0x00000000       0x24 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.PedSM2Sign
+                0x00000000       0x30 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.PedSM2Verify
+                0x00000000       0x2c C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.PedSM2Recover
+                0x00000000       0x30 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.PedSM3   0x00000000       0x24 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.PedSM4   0x00000000       0x30 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.PedGetMacSM
+                0x00000000       0x30 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.PedGetPinBlockSM4
+                0x00000000       0x30 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.PedWriteAesKey
+                0x00000000       0x1c C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.PedCalcAes
+                0x00000000       0x30 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.PedReadRsaKey
+                0x00000000       0x1c C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.PedWriteKeyEncByRsa
+                0x00000000       0x3c C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.PedSetOfflinePinMode
+                0x00000000       0x24 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.PedIdKeyCalc
+                0x00000000       0x30 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.PedSM2SignWithHash
+                0x00000000       0x20 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.PedSM2VerifyWithHash
+                0x00000000       0x20 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.PedSetFunctionKey
+                0x00000000       0x1c C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.PedAesDukptWriteTIK
+                0x00000000       0x38 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.PedAesDukptUpdate
+                0x00000000       0x20 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.PedAesDukptGetKSN
+                0x00000000       0x20 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.PedAesDukptIncreaseKsn
+                0x00000000       0x1c C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.PedAesDukptGetMac
+                0x00000000       0x3c C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.PedAesDukptGetPin
+                0x00000000       0x40 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.PedAesDukptDataCalc
+                0x00000000       0x44 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.SysSleep
+                0x00000000       0x18 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.SetWakeupChannel
+                0x00000000       0x1c C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.NetDevGet
+                0x00000000       0x24 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.FileToPuk
+                0x00000000       0x20 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.FsRecycle
+                0x00000000       0x18 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.GetLeanAngle
+                0x00000000       0x1c C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.GetTermInfoExt
+                0x00000000       0x1c C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.SysConfig
+                0x00000000       0x1c C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.EnumBaseFont
+                0x00000000       0x1c C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.BeepF    0x00000000       0x1c C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.HangOff  0x00000000       0x18 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.WlAutoStart
+                0x00000000       0x2c C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.WlAutoCheck
+                0x00000000       0x18 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.GetHardwareConfig
+                0x00000000       0x20 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.LedDisplay
+                0x00000000       0x1c C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.SysIdle  0x00000000       0x14 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.DelayMs  0x00000000       0x34 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.ScanOpen
+                0x00000000       0x18 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.ScanClose
+                0x00000000       0x14 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.ScanRead
+                0x00000000       0x1c C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.ScanReadExt
+                0x00000000       0x20 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.ScannerLight
+                0x00000000       0x1c C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.TouchScreenOpen
+                0x00000000       0x18 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.TouchScreenRead
+                0x00000000       0x1c C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.TouchScreenClose
+                0x00000000       0x14 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.TouchScreenFlush
+                0x00000000       0x14 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.TouchScreenAttrSet
+                0x00000000       0x18 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.TouchScreenCalibration
+                0x00000000       0x18 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.GetQRCode
+                0x00000000       0x24 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.DrawBarcode
+                0x00000000       0x20 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.DrawBarcodeAdp
+                0x00000000       0x24 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.UiCreateButton
+                0x00000000       0x20 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.UiButtonSetStat
+                0x00000000       0x24 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.UiButtonSetKey
+                0x00000000       0x20 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.UiHasKey
+                0x00000000       0x18 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.UiGetKey
+                0x00000000       0x18 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.UiShowWidget
+                0x00000000       0x24 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.UiDestroyWidget
+                0x00000000       0x1c C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.UiGetString
+                0x00000000       0x28 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.UiGetStringSetStat
+                0x00000000       0x1c C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.UiCreateSigBoard
+                0x00000000       0x20 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.UiSigBoardSetStat
+                0x00000000       0x18 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.UiSigBoardCheckTouch
+                0x00000000       0x18 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.UiSigBoardDrawPath
+                0x00000000       0x18 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.UiClearSigBoardArea
+                0x00000000       0x14 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.UiGetBmp
+                0x00000000       0x28 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.UiCreateCanvas
+                0x00000000       0x20 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.UiCanvasSetStat
+                0x00000000       0x1c C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.UiCanvasDrawText
+                0x00000000       0x6c C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.UiCanvasDrawRect
+                0x00000000       0x3c C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.UiCanvasDrawPixel
+                0x00000000       0x24 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.UiCanvasDrawResizeBawIcon
+                0x00000000       0x2c C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.UiCanvasClearArea
+                0x00000000       0x28 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.UiCanvasCls
+                0x00000000       0x1c C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.UiTextWidth
+                0x00000000       0x18 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.TouchScreenSetMode
+                0x00000000       0x18 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.ScrSwitchNoIcon
+                0x00000000       0x1c C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.ScrSetBacklightOffTime
+                0x00000000       0x18 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.PedEnableGetPinCancel
+                0x00000000       0x28 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .bss.ucPosType
+                0x00000000        0x1 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .data.DoeventFlag
+                0x00000000        0x1 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .bss.bComlibPrinterStatus
+                0x00000000        0x1 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .bss.ScrAttr   0x00000000        0x1 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .data.backupAppNo
+                0x00000000        0x1 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .bss.ScrFont   0x00000000        0x1 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text          0x00000000        0x0 C:\PAXPAY~1\build\gcc-arm-none-eabi\lib\libc.a(lib_a-memcpy.o)
+ .data          0x00000000        0x0 C:\PAXPAY~1\build\gcc-arm-none-eabi\lib\libc.a(lib_a-memcpy.o)
+ .bss           0x00000000        0x0 C:\PAXPAY~1\build\gcc-arm-none-eabi\lib\libc.a(lib_a-memcpy.o)
+ .text          0x00000000        0x0 C:\PAXPAY~1\build\gcc-arm-none-eabi\lib\libc.a(lib_a-memset.o)
+ .data          0x00000000        0x0 C:\PAXPAY~1\build\gcc-arm-none-eabi\lib\libc.a(lib_a-memset.o)
+ .bss           0x00000000        0x0 C:\PAXPAY~1\build\gcc-arm-none-eabi\lib\libc.a(lib_a-memset.o)
+ .text          0x00000000        0x0 C:\PAXPAY~1\build\gcc-arm-none-eabi\lib\libc.a(lib_a-strlen.o)
+ .data          0x00000000        0x0 C:\PAXPAY~1\build\gcc-arm-none-eabi\lib\libc.a(lib_a-strlen.o)
+ .bss           0x00000000        0x0 C:\PAXPAY~1\build\gcc-arm-none-eabi\lib\libc.a(lib_a-strlen.o)
+ .text          0x00000000        0x0 C:\PAXPAY~1\build\gcc-arm-none-eabi\lib\libc.a(lib_a-vsnprintf.o)
+ .data          0x00000000        0x0 C:\PAXPAY~1\build\gcc-arm-none-eabi\lib\libc.a(lib_a-vsnprintf.o)
+ .bss           0x00000000        0x0 C:\PAXPAY~1\build\gcc-arm-none-eabi\lib\libc.a(lib_a-vsnprintf.o)
+ .text          0x00000000        0x0 C:\PAXPAY~1\build\gcc-arm-none-eabi\lib\libc.a(lib_a-impure.o)
+ .data          0x00000000        0x0 C:\PAXPAY~1\build\gcc-arm-none-eabi\lib\libc.a(lib_a-impure.o)
+ .bss           0x00000000        0x0 C:\PAXPAY~1\build\gcc-arm-none-eabi\lib\libc.a(lib_a-impure.o)
+ .rodata._global_impure_ptr
+                0x00000000        0x4 C:\PAXPAY~1\build\gcc-arm-none-eabi\lib\libc.a(lib_a-impure.o)
+ .text          0x00000000        0x0 C:\PAXPAY~1\build\gcc-arm-none-eabi\lib\libc.a(lib_a-svfprintf.o)
+ .data          0x00000000        0x0 C:\PAXPAY~1\build\gcc-arm-none-eabi\lib\libc.a(lib_a-svfprintf.o)
+ .bss           0x00000000        0x0 C:\PAXPAY~1\build\gcc-arm-none-eabi\lib\libc.a(lib_a-svfprintf.o)
+ .text          0x00000000        0x0 C:\PAXPAY~1\build\gcc-arm-none-eabi\lib\libc.a(lib_a-dtoa.o)
+ .data          0x00000000        0x0 C:\PAXPAY~1\build\gcc-arm-none-eabi\lib\libc.a(lib_a-dtoa.o)
+ .bss           0x00000000        0x0 C:\PAXPAY~1\build\gcc-arm-none-eabi\lib\libc.a(lib_a-dtoa.o)
+ .text          0x00000000        0x0 C:\PAXPAY~1\build\gcc-arm-none-eabi\lib\libc.a(lib_a-locale.o)
+ .data          0x00000000        0x0 C:\PAXPAY~1\build\gcc-arm-none-eabi\lib\libc.a(lib_a-locale.o)
+ .bss           0x00000000        0x0 C:\PAXPAY~1\build\gcc-arm-none-eabi\lib\libc.a(lib_a-locale.o)
+ .text._setlocale_r
+                0x00000000       0x40 C:\PAXPAY~1\build\gcc-arm-none-eabi\lib\libc.a(lib_a-locale.o)
+ .text.__locale_charset
+                0x00000000        0xc C:\PAXPAY~1\build\gcc-arm-none-eabi\lib\libc.a(lib_a-locale.o)
+ .text.__locale_mb_cur_max
+                0x00000000        0xc C:\PAXPAY~1\build\gcc-arm-none-eabi\lib\libc.a(lib_a-locale.o)
+ .text.__locale_msgcharset
+                0x00000000        0xc C:\PAXPAY~1\build\gcc-arm-none-eabi\lib\libc.a(lib_a-locale.o)
+ .text.__locale_cjk_lang
+                0x00000000        0x4 C:\PAXPAY~1\build\gcc-arm-none-eabi\lib\libc.a(lib_a-locale.o)
+ .text.setlocale
+                0x00000000       0x18 C:\PAXPAY~1\build\gcc-arm-none-eabi\lib\libc.a(lib_a-locale.o)
+ .text.localeconv
+                0x00000000        0xc C:\PAXPAY~1\build\gcc-arm-none-eabi\lib\libc.a(lib_a-locale.o)
+ .data.lc_message_charset
+                0x00000000       0x20 C:\PAXPAY~1\build\gcc-arm-none-eabi\lib\libc.a(lib_a-locale.o)
+ .bss._PathLocale
+                0x00000000        0x4 C:\PAXPAY~1\build\gcc-arm-none-eabi\lib\libc.a(lib_a-locale.o)
+ .bss.__nlocale_changed
+                0x00000000        0x4 C:\PAXPAY~1\build\gcc-arm-none-eabi\lib\libc.a(lib_a-locale.o)
+ .bss.__mlocale_changed
+                0x00000000        0x4 C:\PAXPAY~1\build\gcc-arm-none-eabi\lib\libc.a(lib_a-locale.o)
+ .data.lc_ctype_charset
+                0x00000000       0x20 C:\PAXPAY~1\build\gcc-arm-none-eabi\lib\libc.a(lib_a-locale.o)
+ .data.__mb_cur_max
+                0x00000000        0x4 C:\PAXPAY~1\build\gcc-arm-none-eabi\lib\libc.a(lib_a-locale.o)
+ .text          0x00000000        0x0 C:\PAXPAY~1\build\gcc-arm-none-eabi\lib\libc.a(lib_a-mallocr.o)
+ .data          0x00000000        0x0 C:\PAXPAY~1\build\gcc-arm-none-eabi\lib\libc.a(lib_a-mallocr.o)
+ .bss           0x00000000        0x0 C:\PAXPAY~1\build\gcc-arm-none-eabi\lib\libc.a(lib_a-mallocr.o)
+ .text          0x00000000        0x0 C:\PAXPAY~1\build\gcc-arm-none-eabi\lib\libc.a(lib_a-memchr.o)
+ .data          0x00000000        0x0 C:\PAXPAY~1\build\gcc-arm-none-eabi\lib\libc.a(lib_a-memchr.o)
+ .bss           0x00000000        0x0 C:\PAXPAY~1\build\gcc-arm-none-eabi\lib\libc.a(lib_a-memchr.o)
+ .text          0x00000000        0x0 C:\PAXPAY~1\build\gcc-arm-none-eabi\lib\libc.a(lib_a-mlock.o)
+ .data          0x00000000        0x0 C:\PAXPAY~1\build\gcc-arm-none-eabi\lib\libc.a(lib_a-mlock.o)
+ .bss           0x00000000        0x0 C:\PAXPAY~1\build\gcc-arm-none-eabi\lib\libc.a(lib_a-mlock.o)
+ .text          0x00000000        0x0 C:\PAXPAY~1\build\gcc-arm-none-eabi\lib\libc.a(lib_a-mprec.o)
+ .data          0x00000000        0x0 C:\PAXPAY~1\build\gcc-arm-none-eabi\lib\libc.a(lib_a-mprec.o)
+ .bss           0x00000000        0x0 C:\PAXPAY~1\build\gcc-arm-none-eabi\lib\libc.a(lib_a-mprec.o)
+ .text.__s2b    0x00000000      0x140 C:\PAXPAY~1\build\gcc-arm-none-eabi\lib\libc.a(lib_a-mprec.o)
+ .text.__ulp    0x00000000       0x44 C:\PAXPAY~1\build\gcc-arm-none-eabi\lib\libc.a(lib_a-mprec.o)
+ .text.__b2d    0x00000000       0xbc C:\PAXPAY~1\build\gcc-arm-none-eabi\lib\libc.a(lib_a-mprec.o)
+ .text.__ratio  0x00000000       0x54 C:\PAXPAY~1\build\gcc-arm-none-eabi\lib\libc.a(lib_a-mprec.o)
+ .text._mprec_log10
+                0x00000000       0x68 C:\PAXPAY~1\build\gcc-arm-none-eabi\lib\libc.a(lib_a-mprec.o)
+ .text.__copybits
+                0x00000000       0xa0 C:\PAXPAY~1\build\gcc-arm-none-eabi\lib\libc.a(lib_a-mprec.o)
+ .text.__any_on
+                0x00000000       0x74 C:\PAXPAY~1\build\gcc-arm-none-eabi\lib\libc.a(lib_a-mprec.o)
+ .rodata.__mprec_tinytens
+                0x00000000       0x28 C:\PAXPAY~1\build\gcc-arm-none-eabi\lib\libc.a(lib_a-mprec.o)
+ .text          0x00000000        0x0 C:\PAXPAY~1\build\gcc-arm-none-eabi\lib\libc.a(lib_a-s_fpclassify.o)
+ .data          0x00000000        0x0 C:\PAXPAY~1\build\gcc-arm-none-eabi\lib\libc.a(lib_a-s_fpclassify.o)
+ .bss           0x00000000        0x0 C:\PAXPAY~1\build\gcc-arm-none-eabi\lib\libc.a(lib_a-s_fpclassify.o)
+ .text          0x00000000        0x0 C:\PAXPAY~1\build\gcc-arm-none-eabi\lib\libc.a(lib_a-sbrkr.o)
+ .data          0x00000000        0x0 C:\PAXPAY~1\build\gcc-arm-none-eabi\lib\libc.a(lib_a-sbrkr.o)
+ .bss           0x00000000        0x0 C:\PAXPAY~1\build\gcc-arm-none-eabi\lib\libc.a(lib_a-sbrkr.o)
+ .text          0x00000000        0x0 C:\PAXPAY~1\build\gcc-arm-none-eabi\lib\libc.a(lib_a-strcmp.o)
+ .data          0x00000000        0x0 C:\PAXPAY~1\build\gcc-arm-none-eabi\lib\libc.a(lib_a-strcmp.o)
+ .bss           0x00000000        0x0 C:\PAXPAY~1\build\gcc-arm-none-eabi\lib\libc.a(lib_a-strcmp.o)
+ .text.strcmp   0x00000000       0x80 C:\PAXPAY~1\build\gcc-arm-none-eabi\lib\libc.a(lib_a-strcmp.o)
+ .text.strcmp_unaligned
+                0x00000000      0x15c C:\PAXPAY~1\build\gcc-arm-none-eabi\lib\libc.a(lib_a-strcmp.o)
+ .ARM.attributes
+                0x00000000       0x2d C:\PAXPAY~1\build\gcc-arm-none-eabi\lib\libc.a(lib_a-strcmp.o)
+ .debug_frame   0x00000000       0x30 C:\PAXPAY~1\build\gcc-arm-none-eabi\lib\libc.a(lib_a-strcmp.o)
+ .text          0x00000000        0x0 C:\PAXPAY~1\build\gcc-arm-none-eabi\lib\libc.a(lib_a-svfiprintf.o)
+ .data          0x00000000        0x0 C:\PAXPAY~1\build\gcc-arm-none-eabi\lib\libc.a(lib_a-svfiprintf.o)
+ .bss           0x00000000        0x0 C:\PAXPAY~1\build\gcc-arm-none-eabi\lib\libc.a(lib_a-svfiprintf.o)
+ .text._svfiprintf_r
+                0x00000000      0xe90 C:\PAXPAY~1\build\gcc-arm-none-eabi\lib\libc.a(lib_a-svfiprintf.o)
+ .rodata.zeroes.6665
+                0x00000000       0x10 C:\PAXPAY~1\build\gcc-arm-none-eabi\lib\libc.a(lib_a-svfiprintf.o)
+ .rodata.str1.4
+                0x00000000       0x30 C:\PAXPAY~1\build\gcc-arm-none-eabi\lib\libc.a(lib_a-svfiprintf.o)
+ .rodata.blanks.6664
+                0x00000000       0x10 C:\PAXPAY~1\build\gcc-arm-none-eabi\lib\libc.a(lib_a-svfiprintf.o)
+ .text          0x00000000        0x0 C:\PAXPAY~1\build\gcc-arm-none-eabi\lib\libc.a(lib_a-callocr.o)
+ .data          0x00000000        0x0 C:\PAXPAY~1\build\gcc-arm-none-eabi\lib\libc.a(lib_a-callocr.o)
+ .bss           0x00000000        0x0 C:\PAXPAY~1\build\gcc-arm-none-eabi\lib\libc.a(lib_a-callocr.o)
+ .text          0x00000000        0x0 C:\PAXPAY~1\build\gcc-arm-none-eabi\lib\libc.a(lib_a-freer.o)
+ .data          0x00000000        0x0 C:\PAXPAY~1\build\gcc-arm-none-eabi\lib\libc.a(lib_a-freer.o)
+ .bss           0x00000000        0x0 C:\PAXPAY~1\build\gcc-arm-none-eabi\lib\libc.a(lib_a-freer.o)
+ .text          0x00000000        0x0 C:\PAXPAY~1\build\gcc-arm-none-eabi\lib\libc.a(lib_a-memmove.o)
+ .data          0x00000000        0x0 C:\PAXPAY~1\build\gcc-arm-none-eabi\lib\libc.a(lib_a-memmove.o)
+ .bss           0x00000000        0x0 C:\PAXPAY~1\build\gcc-arm-none-eabi\lib\libc.a(lib_a-memmove.o)
+ .text          0x00000000        0x0 C:\PAXPAY~1\build\gcc-arm-none-eabi\lib\libc.a(lib_a-reallocr.o)
+ .data          0x00000000        0x0 C:\PAXPAY~1\build\gcc-arm-none-eabi\lib\libc.a(lib_a-reallocr.o)
+ .bss           0x00000000        0x0 C:\PAXPAY~1\build\gcc-arm-none-eabi\lib\libc.a(lib_a-reallocr.o)
+ .text          0x00000000        0x0 C:\PAXPAY~1\build\gcc-arm-none-eabi\lib\libc.a(lib_a-reent.o)
+ .data          0x00000000        0x0 C:\PAXPAY~1\build\gcc-arm-none-eabi\lib\libc.a(lib_a-reent.o)
+ .bss           0x00000000        0x0 C:\PAXPAY~1\build\gcc-arm-none-eabi\lib\libc.a(lib_a-reent.o)
+ .text.cleanup_glue
+                0x00000000       0x1c C:\PAXPAY~1\build\gcc-arm-none-eabi\lib\libc.a(lib_a-reent.o)
+ .text._reclaim_reent
+                0x00000000       0x8c C:\PAXPAY~1\build\gcc-arm-none-eabi\lib\libc.a(lib_a-reent.o)
+ .text._wrapup_reent
+                0x00000000       0x74 C:\PAXPAY~1\build\gcc-arm-none-eabi\lib\libc.a(lib_a-reent.o)
+ .data          0x00000000        0x0 C:\PAXPAY~1\build\gcc-arm-none-eabi\lib\libgcc.a(_arm_addsubdf3.o)
+ .bss           0x00000000        0x0 C:\PAXPAY~1\build\gcc-arm-none-eabi\lib\libgcc.a(_arm_addsubdf3.o)
+ .data          0x00000000        0x0 C:\PAXPAY~1\build\gcc-arm-none-eabi\lib\libgcc.a(_arm_muldivdf3.o)
+ .bss           0x00000000        0x0 C:\PAXPAY~1\build\gcc-arm-none-eabi\lib\libgcc.a(_arm_muldivdf3.o)
+ .data          0x00000000        0x0 C:\PAXPAY~1\build\gcc-arm-none-eabi\lib\libgcc.a(_arm_cmpdf2.o)
+ .bss           0x00000000        0x0 C:\PAXPAY~1\build\gcc-arm-none-eabi\lib\libgcc.a(_arm_cmpdf2.o)
+ .data          0x00000000        0x0 C:\PAXPAY~1\build\gcc-arm-none-eabi\lib\libgcc.a(_arm_fixdfsi.o)
+ .bss           0x00000000        0x0 C:\PAXPAY~1\build\gcc-arm-none-eabi\lib\libgcc.a(_arm_fixdfsi.o)
+ .data          0x00000000        0x0 C:\PAXPAY~1\build\gcc-arm-none-eabi\lib\libgcc.a(_aeabi_uldivmod.o)
+ .bss           0x00000000        0x0 C:\PAXPAY~1\build\gcc-arm-none-eabi\lib\libgcc.a(_aeabi_uldivmod.o)
+ .data          0x00000000        0x0 C:\PAXPAY~1\build\gcc-arm-none-eabi\lib\libgcc.a(bpabi.o)
+ .bss           0x00000000        0x0 C:\PAXPAY~1\build\gcc-arm-none-eabi\lib\libgcc.a(bpabi.o)
+ .data          0x00000000        0x0 C:\PAXPAY~1\build\gcc-arm-none-eabi\lib\libgcc.a(_dvmd_tls.o)
+ .bss           0x00000000        0x0 C:\PAXPAY~1\build\gcc-arm-none-eabi\lib\libgcc.a(_dvmd_tls.o)
+ .data          0x00000000        0x0 C:\PAXPAY~1\build\gcc-arm-none-eabi\lib\libgcc.a(_divdi3.o)
+ .bss           0x00000000        0x0 C:\PAXPAY~1\build\gcc-arm-none-eabi\lib\libgcc.a(_divdi3.o)
+ .ARM.extab     0x00000000        0x0 C:\PAXPAY~1\build\gcc-arm-none-eabi\lib\libgcc.a(_divdi3.o)
+ .data          0x00000000        0x0 C:\PAXPAY~1\build\gcc-arm-none-eabi\lib\libgcc.a(_udivdi3.o)
+ .bss           0x00000000        0x0 C:\PAXPAY~1\build\gcc-arm-none-eabi\lib\libgcc.a(_udivdi3.o)
+ .ARM.extab     0x00000000        0x0 C:\PAXPAY~1\build\gcc-arm-none-eabi\lib\libgcc.a(_udivdi3.o)
+ .text          0x00000000        0x0 C:\PAXPAY~1\build\gcc-arm-none-eabi\lib\libnosys.a(sbrk.o)
+ .data          0x00000000        0x0 C:\PAXPAY~1\build\gcc-arm-none-eabi\lib\libnosys.a(sbrk.o)
+ .bss           0x00000000        0x0 C:\PAXPAY~1\build\gcc-arm-none-eabi\lib\libnosys.a(sbrk.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+FLASH            0x01200000         0x00200000         xr
+SRAM             0x200ff540         0x000008c0         xrw
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+                0x200ffe00                __DLL_PARAM_ADDR = 0x200ffe00
+                0x200ff53c                __APP_STACK = (ORIGIN (SRAM) - 0x4)
+                0x200ff53c                __APP_STACK_MINI_SIZE = __APP_STACK
+                0x01200000                _bin_start = LOADADDR (.BinInfo)
+
+.BinInfo        0x01200000      0x100
+ *(.BinInfo)
+ .BinInfo       0x01200000      0x100 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+                0x01200000                gstBinInfo
+                0x01200100                . = ALIGN (0x4)
+
+.APPInfo        0x01200100      0x104
+                0x01200100                Image_RO_Base = .
+ *(.rodata.AppInfo)
+ .rodata.AppInfo
+                0x01200100      0x104 C:\PAXPAY~1\myapp\UPDATE~1\main.o
+                0x01200100                AppInfo
+
+.rodata.str1.1  0x01200204       0x13
+ .rodata.str1.1
+                0x01200204       0x13 C:\PAXPAY~1\myapp\UPDATE~1\main.o
+
+.rodata.zeroes.6721
+                0x01200218       0x10
+ .rodata.zeroes.6721
+                0x01200218       0x10 C:\PAXPAY~1\build\gcc-arm-none-eabi\lib\libc.a(lib_a-svfprintf.o)
+
+.rodata.blanks.6720
+                0x01200228       0x10
+ .rodata.blanks.6720
+                0x01200228       0x10 C:\PAXPAY~1\build\gcc-arm-none-eabi\lib\libc.a(lib_a-svfprintf.o)
+
+.rodata.p05.5242
+                0x01200238        0xc
+ .rodata.p05.5242
+                0x01200238        0xc C:\PAXPAY~1\build\gcc-arm-none-eabi\lib\libc.a(lib_a-mprec.o)
+
+.rodata.__mprec_tens
+                0x01200248       0xc8
+ .rodata.__mprec_tens
+                0x01200248       0xc8 C:\PAXPAY~1\build\gcc-arm-none-eabi\lib\libc.a(lib_a-mprec.o)
+                0x01200248                __mprec_tens
+
+.rodata.__mprec_bigtens
+                0x01200310       0x28
+ .rodata.__mprec_bigtens
+                0x01200310       0x28 C:\PAXPAY~1\build\gcc-arm-none-eabi\lib\libc.a(lib_a-mprec.o)
+                0x01200310                __mprec_bigtens
+
+.text           0x01200338     0x5e94
+ *(.text)
+ .text          0x01200338      0x370 C:\PAXPAY~1\build\gcc-arm-none-eabi\lib\libgcc.a(_arm_addsubdf3.o)
+                0x01200338                __aeabi_drsub
+                0x01200340                __aeabi_dsub
+                0x01200340                __subdf3
+                0x01200344                __aeabi_dadd
+                0x01200344                __adddf3
+                0x012005bc                __floatunsidf
+                0x012005bc                __aeabi_ui2d
+                0x012005dc                __floatsidf
+                0x012005dc                __aeabi_i2d
+                0x01200600                __aeabi_f2d
+                0x01200600                __extendsfdf2
+                0x0120063c                __floatundidf
+                0x0120063c                __aeabi_ul2d
+                0x0120064c                __floatdidf
+                0x0120064c                __aeabi_l2d
+ .text          0x012006a8      0x424 C:\PAXPAY~1\build\gcc-arm-none-eabi\lib\libgcc.a(_arm_muldivdf3.o)
+                0x012006a8                __aeabi_dmul
+                0x012006a8                __muldf3
+                0x012008fc                __divdf3
+                0x012008fc                __aeabi_ddiv
+ .text          0x01200acc      0x110 C:\PAXPAY~1\build\gcc-arm-none-eabi\lib\libgcc.a(_arm_cmpdf2.o)
+                0x01200acc                __gtdf2
+                0x01200acc                __gedf2
+                0x01200ad4                __ltdf2
+                0x01200ad4                __ledf2
+                0x01200adc                __nedf2
+                0x01200adc                __eqdf2
+                0x01200adc                __cmpdf2
+                0x01200b58                __aeabi_cdrcmple
+                0x01200b68                __aeabi_cdcmpeq
+                0x01200b68                __aeabi_cdcmple
+                0x01200b78                __aeabi_dcmpeq
+                0x01200b8c                __aeabi_dcmplt
+                0x01200ba0                __aeabi_dcmple
+                0x01200bb4                __aeabi_dcmpge
+                0x01200bc8                __aeabi_dcmpgt
+ .text          0x01200bdc       0x50 C:\PAXPAY~1\build\gcc-arm-none-eabi\lib\libgcc.a(_arm_fixdfsi.o)
+                0x01200bdc                __aeabi_d2iz
+                0x01200bdc                __fixdfsi
+ .text          0x01200c2c       0x2c C:\PAXPAY~1\build\gcc-arm-none-eabi\lib\libgcc.a(_aeabi_uldivmod.o)
+                0x01200c2c                __aeabi_uldivmod
+ .text          0x01200c58       0x60 C:\PAXPAY~1\build\gcc-arm-none-eabi\lib\libgcc.a(bpabi.o)
+                0x01200c58                __gnu_ldivmod_helper
+                0x01200c88                __gnu_uldivmod_helper
+ .text          0x01200cb8        0x4 C:\PAXPAY~1\build\gcc-arm-none-eabi\lib\libgcc.a(_dvmd_tls.o)
+                0x01200cb8                __aeabi_idiv0
+                0x01200cb8                __aeabi_ldiv0
+ .text          0x01200cbc      0x2bc C:\PAXPAY~1\build\gcc-arm-none-eabi\lib\libgcc.a(_divdi3.o)
+                0x01200cbc                __divdi3
+ .text          0x01200f78      0x28c C:\PAXPAY~1\build\gcc-arm-none-eabi\lib\libgcc.a(_udivdi3.o)
+                0x01200f78                __udivdi3
+                0x01201220                . = ALIGN (0x20)
+ *fill*         0x01201204       0x1c 00
+ *(.text*)
+ .text.event_main
+                0x01201220        0xa C:\PAXPAY~1\myapp\UPDATE~1\main.o
+                0x01201220                event_main
+ *fill*         0x0120122a        0x2 00
+ .text.startup.main
+                0x0120122c       0x44 C:\PAXPAY~1\myapp\UPDATE~1\main.o
+                0x0120122c                main
+ .text.SystemInit
+                0x01201270       0x18 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+                0x01201270                SystemInit
+ .text.CheckIfManageExist
+                0x01201288       0x18 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+                0x01201288                CheckIfManageExist
+ .text.s_SystemInit
+                0x012012a0       0x40 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+                0x012012a0                s_SystemInit
+ .text.eventmain_entry
+                0x012012e0       0x20 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .text.main_entry
+                0x01201300       0x16 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+                0x01201300                main_entry
+ *fill*         0x01201316        0x2 00
+ .text.ScrPrint
+                0x01201318       0x6c C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+                0x01201318                ScrPrint
+ .text.FileToApp
+                0x01201384       0x18 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+                0x01201384                FileToApp
+ .text.memcpy   0x0120139c      0x15c C:\PAXPAY~1\build\gcc-arm-none-eabi\lib\libc.a(lib_a-memcpy.o)
+                0x0120139c                memcpy
+ .text.memset   0x012014f8      0x12c C:\PAXPAY~1\build\gcc-arm-none-eabi\lib\libc.a(lib_a-memset.o)
+                0x012014f8                memset
+ .text.strlen   0x01201624       0x60 C:\PAXPAY~1\build\gcc-arm-none-eabi\lib\libc.a(lib_a-strlen.o)
+                0x01201624                strlen
+ .text._vsnprintf_r
+                0x01201684       0x58 C:\PAXPAY~1\build\gcc-arm-none-eabi\lib\libc.a(lib_a-vsnprintf.o)
+                0x01201684                _vsnprintf_r
+ .text.vsnprintf
+                0x012016dc       0x28 C:\PAXPAY~1\build\gcc-arm-none-eabi\lib\libc.a(lib_a-vsnprintf.o)
+                0x012016dc                vsnprintf
+ .text._svfprintf_r
+                0x01201704     0x1adc C:\PAXPAY~1\build\gcc-arm-none-eabi\lib\libc.a(lib_a-svfprintf.o)
+                0x01201704                _svfprintf_r
+ .text.quorem   0x012031e0      0x2ec C:\PAXPAY~1\build\gcc-arm-none-eabi\lib\libc.a(lib_a-dtoa.o)
+ *fill*         0x012034cc        0x4 00
+ .text._dtoa_r  0x012034d0     0x11f8 C:\PAXPAY~1\build\gcc-arm-none-eabi\lib\libc.a(lib_a-dtoa.o)
+                0x012034d0                _dtoa_r
+ .text._localeconv_r
+                0x012046c8        0xc C:\PAXPAY~1\build\gcc-arm-none-eabi\lib\libc.a(lib_a-locale.o)
+                0x012046c8                _localeconv_r
+ .text._malloc_r
+                0x012046d4      0x530 C:\PAXPAY~1\build\gcc-arm-none-eabi\lib\libc.a(lib_a-mallocr.o)
+                0x012046d4                _malloc_r
+ .text.memchr   0x01204c04      0x140 C:\PAXPAY~1\build\gcc-arm-none-eabi\lib\libc.a(lib_a-memchr.o)
+                0x01204c04                memchr
+ .text.__malloc_lock
+                0x01204d44        0x4 C:\PAXPAY~1\build\gcc-arm-none-eabi\lib\libc.a(lib_a-mlock.o)
+                0x01204d44                __malloc_lock
+ .text.__malloc_unlock
+                0x01204d48        0x4 C:\PAXPAY~1\build\gcc-arm-none-eabi\lib\libc.a(lib_a-mlock.o)
+                0x01204d48                __malloc_unlock
+ .text._Balloc  0x01204d4c       0x4c C:\PAXPAY~1\build\gcc-arm-none-eabi\lib\libc.a(lib_a-mprec.o)
+                0x01204d4c                _Balloc
+ .text._Bfree   0x01204d98       0x14 C:\PAXPAY~1\build\gcc-arm-none-eabi\lib\libc.a(lib_a-mprec.o)
+                0x01204d98                _Bfree
+ .text.__multadd
+                0x01204dac       0xfc C:\PAXPAY~1\build\gcc-arm-none-eabi\lib\libc.a(lib_a-mprec.o)
+                0x01204dac                __multadd
+ .text.__hi0bits
+                0x01204ea8       0x3c C:\PAXPAY~1\build\gcc-arm-none-eabi\lib\libc.a(lib_a-mprec.o)
+                0x01204ea8                __hi0bits
+ .text.__lo0bits
+                0x01204ee4       0x5c C:\PAXPAY~1\build\gcc-arm-none-eabi\lib\libc.a(lib_a-mprec.o)
+                0x01204ee4                __lo0bits
+ .text.__i2b    0x01204f40       0x14 C:\PAXPAY~1\build\gcc-arm-none-eabi\lib\libc.a(lib_a-mprec.o)
+                0x01204f40                __i2b
+ .text.__multiply
+                0x01204f54      0x2d0 C:\PAXPAY~1\build\gcc-arm-none-eabi\lib\libc.a(lib_a-mprec.o)
+                0x01204f54                __multiply
+ .text.__pow5mult
+                0x01205224       0x94 C:\PAXPAY~1\build\gcc-arm-none-eabi\lib\libc.a(lib_a-mprec.o)
+                0x01205224                __pow5mult
+ .text.__lshift
+                0x012052b8      0x16c C:\PAXPAY~1\build\gcc-arm-none-eabi\lib\libc.a(lib_a-mprec.o)
+                0x012052b8                __lshift
+ .text.__mcmp   0x01205424       0x5c C:\PAXPAY~1\build\gcc-arm-none-eabi\lib\libc.a(lib_a-mprec.o)
+                0x01205424                __mcmp
+ .text.__mdiff  0x01205480      0x218 C:\PAXPAY~1\build\gcc-arm-none-eabi\lib\libc.a(lib_a-mprec.o)
+                0x01205480                __mdiff
+ .text.__d2b    0x01205698       0xc0 C:\PAXPAY~1\build\gcc-arm-none-eabi\lib\libc.a(lib_a-mprec.o)
+                0x01205698                __d2b
+ .text.__fpclassifyd
+                0x01205758       0x68 C:\PAXPAY~1\build\gcc-arm-none-eabi\lib\libc.a(lib_a-s_fpclassify.o)
+                0x01205758                __fpclassifyd
+ .text._sbrk_r  0x012057c0       0x24 C:\PAXPAY~1\build\gcc-arm-none-eabi\lib\libc.a(lib_a-sbrkr.o)
+                0x012057c0                _sbrk_r
+ .text.__ssprint_r
+                0x012057e4      0x100 C:\PAXPAY~1\build\gcc-arm-none-eabi\lib\libc.a(lib_a-svfiprintf.o)
+                0x012057e4                __ssprint_r
+ .text._calloc_r
+                0x012058e4       0x60 C:\PAXPAY~1\build\gcc-arm-none-eabi\lib\libc.a(lib_a-callocr.o)
+                0x012058e4                _calloc_r
+ .text._malloc_trim_r
+                0x01205944       0x98 C:\PAXPAY~1\build\gcc-arm-none-eabi\lib\libc.a(lib_a-freer.o)
+                0x01205944                _malloc_trim_r
+ .text._free_r  0x012059dc      0x194 C:\PAXPAY~1\build\gcc-arm-none-eabi\lib\libc.a(lib_a-freer.o)
+                0x012059dc                _free_r
+ .text.memmove  0x01205b70      0x1b0 C:\PAXPAY~1\build\gcc-arm-none-eabi\lib\libc.a(lib_a-memmove.o)
+                0x01205b70                memmove
+ .text._realloc_r
+                0x01205d20      0x3ec C:\PAXPAY~1\build\gcc-arm-none-eabi\lib\libc.a(lib_a-reallocr.o)
+                0x01205d20                _realloc_r
+ .text._sbrk    0x0120610c       0x34 C:\PAXPAY~1\build\gcc-arm-none-eabi\lib\libnosys.a(sbrk.o)
+                0x0120610c                _sbrk
+ *(.glue_7*)
+ .glue_7        0x00000000        0x0 linker stubs
+ .glue_7t       0x00000000        0x0 linker stubs
+ *(.rodata)
+ .rodata        0x01206140       0x28 C:\PAXPAY~1\myapp\UPDATE~1\main.o
+ *(.rodata.str1.4)
+ .rodata.str1.4
+                0x01206168        0x2 C:\PAXPAY~1\build\gcc-arm-none-eabi\lib\libc.a(lib_a-impure.o)
+                                  0x4 (size before relaxing)
+ *fill*         0x0120616a        0x2 00
+ .rodata.str1.4
+                0x0120616c       0x42 C:\PAXPAY~1\build\gcc-arm-none-eabi\lib\libc.a(lib_a-svfprintf.o)
+                                 0x44 (size before relaxing)
+ *fill*         0x012061ae        0x2 00
+ .rodata.str1.4
+                0x012061b0       0x10 C:\PAXPAY~1\build\gcc-arm-none-eabi\lib\libc.a(lib_a-dtoa.o)
+                                 0x14 (size before relaxing)
+ .rodata.str1.4
+                0x012061c0        0xc C:\PAXPAY~1\build\gcc-arm-none-eabi\lib\libc.a(lib_a-locale.o)
+                                 0x14 (size before relaxing)
+                0x012061cc                . = ALIGN (0x4)
+                0x012061cc                Image_RO_Limit = .
+
+.vfp11_veneer   0x012061cc        0x0
+ .vfp11_veneer  0x00000000        0x0 linker stubs
+
+.v4_bx          0x012061cc        0x0
+ .v4_bx         0x00000000        0x0 linker stubs
+
+.iplt           0x012061cc        0x0
+ .iplt          0x00000000        0x0 C:\PAXPAY~1\myapp\UPDATE~1\main.o
+
+.ARM.extab
+ *(.ARM.extab* .gnu.linkonce.armextab.*)
+
+.ARM.exidx      0x012061cc        0x8
+ *(.ARM.exidx* .gnu.linkonce.armexidx.*)
+ .ARM.exidx     0x012061cc        0x8 C:\PAXPAY~1\build\gcc-arm-none-eabi\lib\libgcc.a(_divdi3.o)
+ .ARM.exidx     0x012061d4        0x0 C:\PAXPAY~1\build\gcc-arm-none-eabi\lib\libgcc.a(_udivdi3.o)
+                                  0x8 (size before relaxing)
+                0x012061d4                __etext = LOADADDR (.data)
+                0x012061d4                __sdata_text = .
+
+.rel.dyn        0x012061d4        0x0
+ .rel.iplt      0x00000000        0x0 C:\PAXPAY~1\myapp\UPDATE~1\main.o
+
+.data           0x200ff540      0x874 load address 0x012061d4
+                0x200ff540                Image_RW_Base = .
+                0x200ff540                __start_mysection = .
+ *(mysection)
+                0x200ff540                . = ALIGN (0x4)
+                0x200ff540                __stop_mysection = .
+                0x200ff540                __start_mydummy = .
+ *(mydummy)
+                0x200ff540                . = ALIGN (0x4)
+ *(.data)
+ *(.data.*)
+ .data.impure_data
+                0x200ff540      0x428 C:\PAXPAY~1\build\gcc-arm-none-eabi\lib\libc.a(lib_a-impure.o)
+ .data._impure_ptr
+                0x200ff968        0x4 C:\PAXPAY~1\build\gcc-arm-none-eabi\lib\libc.a(lib_a-impure.o)
+                0x200ff968                _impure_ptr
+ .data.lconv    0x200ff96c       0x38 C:\PAXPAY~1\build\gcc-arm-none-eabi\lib\libc.a(lib_a-locale.o)
+ .data.__malloc_av_
+                0x200ff9a4      0x408 C:\PAXPAY~1\build\gcc-arm-none-eabi\lib\libc.a(lib_a-mallocr.o)
+                0x200ff9a4                __malloc_av_
+ .data.__malloc_trim_threshold
+                0x200ffdac        0x4 C:\PAXPAY~1\build\gcc-arm-none-eabi\lib\libc.a(lib_a-mallocr.o)
+                0x200ffdac                __malloc_trim_threshold
+ .data.__malloc_sbrk_base
+                0x200ffdb0        0x4 C:\PAXPAY~1\build\gcc-arm-none-eabi\lib\libc.a(lib_a-mallocr.o)
+                0x200ffdb0                __malloc_sbrk_base
+                0x200ffdb4                . = ALIGN (0x4)
+                0x200ffdb4                Image_RW_Limit = .
+                0x01206a48                _bin_end = (LOADADDR (.data) + SIZEOF (.data))
+
+.igot.plt       0x200ffdb4        0x0 load address 0x01206a48
+ .igot.plt      0x00000000        0x0 C:\PAXPAY~1\myapp\UPDATE~1\main.o
+
+.bss            0x200ffdb4       0x48 load address 0x01206a48
+                0x200ffdb4                Image_ZI_Base = .
+                0x200ffdb4                _bss_start = .
+ *(.bss)
+ *(.bss.*)
+ .bss.__malloc_max_total_mem
+                0x200ffdb4        0x4 C:\PAXPAY~1\build\gcc-arm-none-eabi\lib\libc.a(lib_a-mallocr.o)
+                0x200ffdb4                __malloc_max_total_mem
+ .bss.__malloc_max_sbrked_mem
+                0x200ffdb8        0x4 C:\PAXPAY~1\build\gcc-arm-none-eabi\lib\libc.a(lib_a-mallocr.o)
+                0x200ffdb8                __malloc_max_sbrked_mem
+ .bss.__malloc_top_pad
+                0x200ffdbc        0x4 C:\PAXPAY~1\build\gcc-arm-none-eabi\lib\libc.a(lib_a-mallocr.o)
+                0x200ffdbc                __malloc_top_pad
+ .bss.__malloc_current_mallinfo
+                0x200ffdc0       0x28 C:\PAXPAY~1\build\gcc-arm-none-eabi\lib\libc.a(lib_a-mallocr.o)
+                0x200ffdc0                __malloc_current_mallinfo
+ .bss.heap_end.4231
+                0x200ffde8        0x4 C:\PAXPAY~1\build\gcc-arm-none-eabi\lib\libnosys.a(sbrk.o)
+ *(COMMON)
+ COMMON         0x200ffdec        0xc C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+                0x200ffdec                CallEvent
+                0x200ffdf0                CallApp
+                0x200ffdf4                glParam
+ COMMON         0x200ffdf8        0x4 C:\PAXPAY~1\build\gcc-arm-none-eabi\lib\libc.a(lib_a-reent.o)
+                0x200ffdf8                errno
+                0x200ffdfc                . = ALIGN (0x4)
+ *(Heap)
+                0x200ffdfc                . = ALIGN (0x4)
+                0x200ffdfc                end = .
+                0x200ffdfc                _end = .
+                0x200ffdfc                Image_ZI_Limit = .
+LOAD C:\PAXPAY~1\myapp\UPDATE~1\main.o
+START GROUP
+LOAD C:\PAXPAY~1\postype\D188\libD188api.a
+LOAD C:\PAXPAY~1\build\gcc-arm-none-eabi\lib\libc.a
+LOAD C:\PAXPAY~1\build\gcc-arm-none-eabi\lib\libgcc.a
+LOAD C:\PAXPAY~1\build\gcc-arm-none-eabi\lib\libnosys.a
+END GROUP
+OUTPUT(C:\PAXPAY~1\myapp\UPDATE~1\UpdateTestD188.elf elf32-littlearm)
+
+.comment        0x00000000       0x70
+ .comment       0x00000000       0x70 C:\PAXPAY~1\myapp\UPDATE~1\main.o
+                                 0x71 (size before relaxing)
+
+.ARM.attributes
+                0x00000000       0x33
+ .ARM.attributes
+                0x00000000       0x33 C:\PAXPAY~1\myapp\UPDATE~1\main.o
+ .ARM.attributes
+                0x00000033       0x33 C:\PAXPAY~1\postype\D188\libD188api.a(dll.o)
+ .ARM.attributes
+                0x00000066       0x2d C:\PAXPAY~1\build\gcc-arm-none-eabi\lib\libc.a(lib_a-memcpy.o)
+ .ARM.attributes
+                0x00000093       0x2d C:\PAXPAY~1\build\gcc-arm-none-eabi\lib\libc.a(lib_a-memset.o)
+ .ARM.attributes
+                0x000000c0       0x2d C:\PAXPAY~1\build\gcc-arm-none-eabi\lib\libc.a(lib_a-strlen.o)
+ .ARM.attributes
+                0x000000ed       0x2d C:\PAXPAY~1\build\gcc-arm-none-eabi\lib\libc.a(lib_a-vsnprintf.o)
+ .ARM.attributes
+                0x0000011a       0x2d C:\PAXPAY~1\build\gcc-arm-none-eabi\lib\libc.a(lib_a-impure.o)
+ .ARM.attributes
+                0x00000147       0x2d C:\PAXPAY~1\build\gcc-arm-none-eabi\lib\libc.a(lib_a-svfprintf.o)
+ .ARM.attributes
+                0x00000174       0x2d C:\PAXPAY~1\build\gcc-arm-none-eabi\lib\libc.a(lib_a-dtoa.o)
+ .ARM.attributes
+                0x000001a1       0x2d C:\PAXPAY~1\build\gcc-arm-none-eabi\lib\libc.a(lib_a-locale.o)
+ .ARM.attributes
+                0x000001ce       0x2d C:\PAXPAY~1\build\gcc-arm-none-eabi\lib\libc.a(lib_a-mallocr.o)
+ .ARM.attributes
+                0x000001fb       0x2d C:\PAXPAY~1\build\gcc-arm-none-eabi\lib\libc.a(lib_a-memchr.o)
+ .ARM.attributes
+                0x00000228       0x2d C:\PAXPAY~1\build\gcc-arm-none-eabi\lib\libc.a(lib_a-mlock.o)
+ .ARM.attributes
+                0x00000255       0x2d C:\PAXPAY~1\build\gcc-arm-none-eabi\lib\libc.a(lib_a-mprec.o)
+ .ARM.attributes
+                0x00000282       0x2d C:\PAXPAY~1\build\gcc-arm-none-eabi\lib\libc.a(lib_a-s_fpclassify.o)
+ .ARM.attributes
+                0x000002af       0x2d C:\PAXPAY~1\build\gcc-arm-none-eabi\lib\libc.a(lib_a-sbrkr.o)
+ .ARM.attributes
+                0x000002dc       0x2d C:\PAXPAY~1\build\gcc-arm-none-eabi\lib\libc.a(lib_a-svfiprintf.o)
+ .ARM.attributes
+                0x00000309       0x2d C:\PAXPAY~1\build\gcc-arm-none-eabi\lib\libc.a(lib_a-callocr.o)
+ .ARM.attributes
+                0x00000336       0x2d C:\PAXPAY~1\build\gcc-arm-none-eabi\lib\libc.a(lib_a-freer.o)
+ .ARM.attributes
+                0x00000363       0x2d C:\PAXPAY~1\build\gcc-arm-none-eabi\lib\libc.a(lib_a-memmove.o)
+ .ARM.attributes
+                0x00000390       0x2d C:\PAXPAY~1\build\gcc-arm-none-eabi\lib\libc.a(lib_a-reallocr.o)
+ .ARM.attributes
+                0x000003bd       0x2d C:\PAXPAY~1\build\gcc-arm-none-eabi\lib\libc.a(lib_a-reent.o)
+ .ARM.attributes
+                0x000003ea       0x1d C:\PAXPAY~1\build\gcc-arm-none-eabi\lib\libgcc.a(_arm_addsubdf3.o)
+ .ARM.attributes
+                0x00000407       0x1d C:\PAXPAY~1\build\gcc-arm-none-eabi\lib\libgcc.a(_arm_muldivdf3.o)
+ .ARM.attributes
+                0x00000424       0x1d C:\PAXPAY~1\build\gcc-arm-none-eabi\lib\libgcc.a(_arm_cmpdf2.o)
+ .ARM.attributes
+                0x00000441       0x1d C:\PAXPAY~1\build\gcc-arm-none-eabi\lib\libgcc.a(_arm_fixdfsi.o)
+ .ARM.attributes
+                0x0000045e       0x1d C:\PAXPAY~1\build\gcc-arm-none-eabi\lib\libgcc.a(_aeabi_uldivmod.o)
+ .ARM.attributes
+                0x0000047b       0x2d C:\PAXPAY~1\build\gcc-arm-none-eabi\lib\libgcc.a(bpabi.o)
+ .ARM.attributes
+                0x000004a8       0x1d C:\PAXPAY~1\build\gcc-arm-none-eabi\lib\libgcc.a(_dvmd_tls.o)
+ .ARM.attributes
+                0x000004c5       0x2d C:\PAXPAY~1\build\gcc-arm-none-eabi\lib\libgcc.a(_divdi3.o)
+ .ARM.attributes
+                0x000004f2       0x2d C:\PAXPAY~1\build\gcc-arm-none-eabi\lib\libgcc.a(_udivdi3.o)
+ .ARM.attributes
+                0x0000051f       0x2d C:\PAXPAY~1\build\gcc-arm-none-eabi\lib\libnosys.a(sbrk.o)
+
+.debug_frame    0x00000000      0x7ac
+ .debug_frame   0x00000000       0x30 C:\PAXPAY~1\build\gcc-arm-none-eabi\lib\libc.a(lib_a-memcpy.o)
+ .debug_frame   0x00000030       0x2c C:\PAXPAY~1\build\gcc-arm-none-eabi\lib\libc.a(lib_a-memset.o)
+ .debug_frame   0x0000005c       0x20 C:\PAXPAY~1\build\gcc-arm-none-eabi\lib\libc.a(lib_a-strlen.o)
+ .debug_frame   0x0000007c       0x50 C:\PAXPAY~1\build\gcc-arm-none-eabi\lib\libc.a(lib_a-vsnprintf.o)
+ .debug_frame   0x000000cc       0x3c C:\PAXPAY~1\build\gcc-arm-none-eabi\lib\libc.a(lib_a-svfprintf.o)
+ .debug_frame   0x00000108       0x64 C:\PAXPAY~1\build\gcc-arm-none-eabi\lib\libc.a(lib_a-dtoa.o)
+ .debug_frame   0x0000016c       0xa0 C:\PAXPAY~1\build\gcc-arm-none-eabi\lib\libc.a(lib_a-locale.o)
+ .debug_frame   0x0000020c       0x38 C:\PAXPAY~1\build\gcc-arm-none-eabi\lib\libc.a(lib_a-mallocr.o)
+ .debug_frame   0x00000244       0x2c C:\PAXPAY~1\build\gcc-arm-none-eabi\lib\libc.a(lib_a-memchr.o)
+ .debug_frame   0x00000270       0x30 C:\PAXPAY~1\build\gcc-arm-none-eabi\lib\libc.a(lib_a-mlock.o)
+ .debug_frame   0x000002a0      0x238 C:\PAXPAY~1\build\gcc-arm-none-eabi\lib\libc.a(lib_a-mprec.o)
+ .debug_frame   0x000004d8       0x20 C:\PAXPAY~1\build\gcc-arm-none-eabi\lib\libc.a(lib_a-s_fpclassify.o)
+ .debug_frame   0x000004f8       0x2c C:\PAXPAY~1\build\gcc-arm-none-eabi\lib\libc.a(lib_a-sbrkr.o)
+ .debug_frame   0x00000524       0x64 C:\PAXPAY~1\build\gcc-arm-none-eabi\lib\libc.a(lib_a-svfiprintf.o)
+ .debug_frame   0x00000588       0x28 C:\PAXPAY~1\build\gcc-arm-none-eabi\lib\libc.a(lib_a-callocr.o)
+ .debug_frame   0x000005b0       0x50 C:\PAXPAY~1\build\gcc-arm-none-eabi\lib\libc.a(lib_a-freer.o)
+ .debug_frame   0x00000600       0x30 C:\PAXPAY~1\build\gcc-arm-none-eabi\lib\libc.a(lib_a-memmove.o)
+ .debug_frame   0x00000630       0x38 C:\PAXPAY~1\build\gcc-arm-none-eabi\lib\libc.a(lib_a-reallocr.o)
+ .debug_frame   0x00000668       0x6c C:\PAXPAY~1\build\gcc-arm-none-eabi\lib\libc.a(lib_a-reent.o)
+ .debug_frame   0x000006d4       0x50 C:\PAXPAY~1\build\gcc-arm-none-eabi\lib\libgcc.a(bpabi.o)
+ .debug_frame   0x00000724       0x34 C:\PAXPAY~1\build\gcc-arm-none-eabi\lib\libgcc.a(_divdi3.o)
+ .debug_frame   0x00000758       0x34 C:\PAXPAY~1\build\gcc-arm-none-eabi\lib\libgcc.a(_udivdi3.o)
+ .debug_frame   0x0000078c       0x20 C:\PAXPAY~1\build\gcc-arm-none-eabi\lib\libnosys.a(sbrk.o)

@@ -1,0 +1,22 @@
+﻿Build started 20/09/2022 09:54:29.
+     1>Project "C:\PAXPAYPRO2017\myapp\UPDATETESTD188\UpdateTestD188.vcxproj" on node 2 (rebuild target(s)).
+     1>_PrepareForClean:
+         Deleting file ".\Debug\UpdateTestD188.lastbuildstate".
+       InitializeBuildStatus:
+         Touching ".\Debug\UpdateTestD188.unsuccessfulbuild".
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /IC:\PaxPayPro2017\include /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _VC80_UPGRADE=0x0600 /D _MBCS /X /Gm /EHsc /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo".\Debug/" /Fd".\Debug/vc100.pdb" /Gd /TC /analyze- /errorReport:prompt main.c
+         main.c
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:".\Debug/UpdateTestD188.exe" /INCREMENTAL /NOLOGO /LIBPATH:C:\PaxPayPro2017\LIB payprocore2017.lib EntryVS2010.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /NODEFAULTLIB:libc.lib /MANIFEST /ManifestFile:".\Debug\UpdateTestD188.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:".\Debug/UpdateTestD188.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE:NO /IMPLIB:".\Debug\UpdateTestD188.lib" /MACHINE:X86 /SAFESEH:NO .\Debug/main.obj
+         UpdateTestD188.vcxproj -> C:\PAXPAYPRO2017\myapp\UPDATETESTD188\.\Debug\UpdateTestD188.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"C:\PAXPAYPRO2017\myapp\UPDATETESTD188\.\Debug\UpdateTestD188.exe.manifest" /manifest .\Debug\UpdateTestD188.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         Deleting file ".\Debug\UpdateTestD188.unsuccessfulbuild".
+         Touching ".\Debug\UpdateTestD188.lastbuildstate".
+     1>Done Building Project "C:\PAXPAYPRO2017\myapp\UPDATETESTD188\UpdateTestD188.vcxproj" (rebuild target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:02.63
